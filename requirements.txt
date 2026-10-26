@@ -1,0 +1,5 @@
+Only PyOTP needs installing; everything else is standard library.
+Flask>=3.0.0
+pyotp>=2.8.0
+python-dotenv>=1.0.0
+requests>=2.31.0
